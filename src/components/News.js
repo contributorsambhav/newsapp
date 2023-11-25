@@ -4,12 +4,12 @@ export class News extends Component {
   render() {
     return (
       <div>
-        <Newsitem></Newsitem>
-        <Newsitem></Newsitem>
-        <Newsitem></Newsitem>
-        <Newsitem></Newsitem>
-        <Newsitem></Newsitem>
-        <Newsitem></Newsitem>
+        <Newsitem title = "mytitle" description = "mydescription"></Newsitem>
+        <Newsitem title = "mytitle" description = "mydescription"></Newsitem>
+        <Newsitem title = "mytitle" description = "mydescription"></Newsitem>
+        <Newsitem title = "mytitle" description = "mydescription"></Newsitem>
+        <Newsitem title = "mytitle" description = "mydescription"></Newsitem>
+        <Newsitem title = "mytitle" description = "mydescription"></Newsitem>
   
       </div>
     )
