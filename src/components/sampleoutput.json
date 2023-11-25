@@ -1,0 +1,1306 @@
+{
+  "status": "ok",
+  "totalResults": 1131,
+  "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "Microsoft’s Windows Hello fingerprint authentication has been bypassed",
+      "description": "Security researchers have discovered a way to bypass Windows Hello fingerprint authentication. It relies on a USB man-in-the-middle attack.",
+      "url": "https://www.theverge.com/2023/11/22/23972220/microsoft-windows-hello-fingerprint-authentication-bypass-security-vulnerability",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/1A57pvcipeyUIUVQx-w5Asl2Vno=/0x0:1592x896/1200x628/filters:focal(796x448:797x449)/cdn.vox-cdn.com/uploads/chorus_asset/file/25104383/windowshellofingerprint.jpg",
+      "publishedAt": "2023-11-22T12:03:41Z",
+      "content": "Microsofts Windows Hello fingerprint authentication has been bypassed\r\nMicrosofts Windows Hello fingerprint authentication has been bypassed\r\n / Security researchers have found flaws in the way lapto… [+3619 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "vishnu.skar@gmail.com (Vishnu Sarangapurkar)",
+      "title": "Google Messages might actually get text formatting soon",
+      "description": "Google is testing some handy new features for its messaging app, including text formatting support alongside noise cancellation support for voice notes.",
+      "url": "https://www.androidcentral.com/apps-software/google-messages-to-support-text-formatting-soon",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Nvh4Py4UT6CG7cx7uQ7ewT-1200-80.jpg",
+      "publishedAt": "2023-11-22T05:31:28Z",
+      "content": "<ul><li>Google Messages users may soon be able to send formatted text.</li><li>The app is gaining markdown support, which is currently seen in the beta version of the app.</li><li>The feature is expe… [+2428 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "harish.jonnalagadda@futurenet.com (Harish Jonnalagadda)",
+      "title": "Tailscale is the best NAS utility you're not using",
+      "description": "Tailscale is a mesh VPN utility that lets you access all of your devices — including your NAS — from anywhere in the world.",
+      "url": "https://www.androidcentral.com/apps-software/tailscale-best-service-nas",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/DcVJs35bE827AfteWexzCG-1200-80.jpg",
+      "publishedAt": "2023-11-22T14:13:51Z",
+      "content": "I routinely use my NAS to stream media and music on various devices in my house, and it works particularly well for this use case. Remote access is a little more tricky; I want to be able to access m… [+4907 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Tim Hardwick",
+      "title": "Spotify Trials New Option to Turn Off Personalized Recommendations",
+      "description": "Spotify is trialing a new ability for users to turn off their personalized recommendations, according to beta code unearthed by MacRumors contributor Aaron Perris. \n\n\n\n\n\nDepending on how it works, the new option could conceivably allow users to prevent songs …",
+      "url": "https://www.macrumors.com/2023/11/22/spotify-trials-disable-personal-recommendations/",
+      "urlToImage": "https://images.macrumors.com/t/7-nfr3K2_BPQYeb0zBLJE8hdAb0=/2500x/article-new/2021/08/General-Spotify-Feature.jpg",
+      "publishedAt": "2023-11-22T15:14:23Z",
+      "content": "Spotify is trialing a new ability for users to turn off their personalized recommendations, according to beta code unearthed by MacRumors contributor Aaron Perris. \r\nDepending on how it works, the ne… [+1829 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Tim Hardwick",
+      "title": "Apple Explores iPhone 'Privacy Screens', Macs With Adjustable Viewing Angles",
+      "description": "Earlier this year, The Wall Street Journal published an in-depth report highlighting instances of thieves watching iPhone owners enter their passcode before stealing the device in order to gain access to the device, data, and money.\n\n\n\n\n\nWith knowledge of the…",
+      "url": "https://www.macrumors.com/2023/11/22/iphone-privacy-screens-adjustable-viewing-angles/",
+      "urlToImage": "https://images.macrumors.com/t/9sKiVeXz9XvGOrH7J9ReXeTfvvc=/1600x/article-new/2022/01/appleprivacyad-cleaned.jpg",
+      "publishedAt": "2023-11-22T13:56:03Z",
+      "content": "Earlier this year, The Wall Street Journal published an in-depth report highlighting instances of thieves watching iPhone owners enter their passcode before stealing the device in order to gain acces… [+2645 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Hartley Charlton",
+      "title": "Report: Touch ID Will Not Return on iPhone 16",
+      "description": "Apple's iPhone 16 lineup will not see the return of Touch ID fingerprint authentication technology, a new report claims.\n\n\n\n\n\nThe information comes from an integrated circuit expert on Weibo with a track record for sharing information about Apple's plans. In …",
+      "url": "https://www.macrumors.com/2023/11/22/touch-id-will-not-return-on-iphone-16/",
+      "urlToImage": "https://images.macrumors.com/t/Yeo-MqMOd7U_lqFye0L0S9hY-Ew=/1920x/article-new/2023/03/Touch-ID-Fingerprint-Sensor-Under-Display-Feature-2.jpg",
+      "publishedAt": "2023-11-22T13:46:20Z",
+      "content": "Apple's iPhone 16 lineup will not see the return of Touch ID fingerprint authentication technology, a new report claims.\r\nThe information comes from an integrated circuit expert on Weibo with a track… [+1383 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Marielle Descalsota",
+      "title": "WestJet lost a passenger's bag on a domestic flight in Canada. The passenger's AirTag shows it was in Jamaica.",
+      "description": "Lorraine Pedersen flew Westjet on a domestic flight, but her bag didn't arrive.",
+      "url": "https://www.businessinsider.com/lost-suitcase-airtag-airline-westjet-compensation-jamaica-canada-2023-11",
+      "urlToImage": "https://i.insider.com/655c32359c7d23cb3b9dd4fd?width=1200&format=jpeg",
+      "publishedAt": "2023-11-22T04:14:45Z",
+      "content": "A passenger says WestJet lost her bag and it ended up in Jamaica.aire images/FG/Bauer-Griffin/Getty Images\r\n<ul><li>A WestJet passenger traveling in Canada used an AirTag to track her lost bag.</li><… [+3393 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Design-milk.com"
+      },
+      "author": "Maivy Tran",
+      "title": "2023 Best Modern Gifts for Fun Times",
+      "description": "From wine advent calendars that keep the good spirits flowing to stunning twists on your classic games, these 10 gift ideas are sure to bring connection and laughter this holiday season.",
+      "url": "https://design-milk.com/2023-best-modern-gifts-for-fun-times/",
+      "urlToImage": "https://design-milk.com/images/2023/11/2023-Gift-Guide-Banner-Fun-Times.jpg",
+      "publishedAt": "2023-11-22T14:00:19Z",
+      "content": "Give the gift of memorable moments that come with fun times! From wine advent calendars that keep the good spirits flowing to stunning twists on your classic games, these 10 gift ideas are sure to br… [+4018 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hipertextual"
+      },
+      "author": "José María López",
+      "title": "Cómo sacarle todo el partido al Touch ID de tu iPad o Mac",
+      "description": "El Touch ID es un lector de huellas dactilares que Apple incluye en varios de sus dispositivos desde su estreno en 2013 en el iPhone 5S. Pronto pasó a estar disponible en iPad y Mac. Y aunque los modelos de iPhone más actuales emplean otros sistemas de seguri…",
+      "url": "http://hipertextual.com/2023/11/usar-touch-id-ipad-mac",
+      "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2023/11/Touch-ID-iPad-Mac.jpg",
+      "publishedAt": "2023-11-22T14:15:00Z",
+      "content": "El Touch ID es un lector de huellas dactilares que Apple incluye en varios de sus dispositivos desde su estreno en 2013 en el iPhone 5S. Pronto pasó a estar disponible en iPad y Mac. Y aunque los mod… [+5644 chars]"
+    },
+    {
+      "source": {
+        "id": "time",
+        "name": "Time"
+      },
+      "author": "Eliana Dockterman",
+      "title": "The 10 Best Podcasts of 2023",
+      "description": "From 'Classy' to 'The Retrievals,' see TIME's picks for the best podcasts of the year.",
+      "url": "https://time.com/6321143/best-podcasts-2023/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2023/11/1.png",
+      "publishedAt": "2023-11-22T14:00:00Z",
+      "content": "The podcast bubble is bursting: This year has been filled with a slew of cutbacks and cancellations as major players like Spotify discover that hiring a former royal is no guarantee of retaining an a… [+11656 chars]"
+    },
+    {
+      "source": {
+        "id": "time",
+        "name": "Time"
+      },
+      "author": "Rachel Metz / Bloomberg",
+      "title": "OpenAI Says Sam Altman to Return as CEO With New Board Members",
+      "description": "The company also said it will appoint new members to the board, which will be chaired by Bret Taylor and include Larry Summers and Adam D’Angelo.",
+      "url": "https://time.com/6338704/sam-altman-openai-ceo-return/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2023/11/sam-altman-openai-ceo-return.jpg?quality=85",
+      "publishedAt": "2023-11-22T06:45:00Z",
+      "content": "OpenAI will bring back Sam Altman and overhaul its board to bring on new directors including Larry Summers, a stunning reversal in a drama thats transfixed Silicon Valley and the global AI industry.\r… [+6646 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Xataka.com"
+      },
+      "author": "Roberto Méndez",
+      "title": "He decidido no gastarme nada este Black Friday. Me está costando horrores esquivar todas las balas",
+      "description": "El Black Friday se presenta como esa época del año en la que es inevitable no hacer ninguna compra, ya que en todo tipo de comercios aparecen descuentos de todo tipo en productos que están en nuestra lista de deseos. Además, puede ser una gran oportunidad par…",
+      "url": "https://www.xataka.com/seleccion/he-decidido-no-gastarme-nada-este-black-friday-me-esta-costando-horrores-esquivar-todas-balas",
+      "urlToImage": "https://i.blogs.es/1c1313/buenas-ofertas-irresistibles-black-friday-2023/840_560.jpeg",
+      "publishedAt": "2023-11-22T14:01:47Z",
+      "content": "El Black Friday se presenta como esa época del año en la que es inevitable no hacer ninguna compra, ya que en todo tipo de comercios aparecen descuentos de todo tipo en productos que están en nuestra… [+6173 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Xataka.com"
+      },
+      "author": "Manu García (Visnuh)",
+      "title": "Los mejores chollos en tecnología antes del Black Friday, hoy 22 de noviembre",
+      "description": "Un día más, antes de la llegada del \"verdadero\" Black Friday, seguimos a la caza de las mejores gangas en tecnología. Si estás buscando un smartphone, un televisor OLED, un SSD o un smartwatch, hoy los vas a encontrar.\n<!-- BREAK 1 -->\nLG OLED55B36LA\n\n \n \n \n …",
+      "url": "https://www.xataka.com/seleccion/mejores-chollos-tecnologia-antes-black-friday-hoy-22-noviembre",
+      "urlToImage": "https://i.blogs.es/963ee6/recopilatorio_bf/840_560.jpeg",
+      "publishedAt": "2023-11-22T08:31:46Z",
+      "content": "Un día más, antes de la llegada del \"verdadero\" Black Friday, seguimos a la caza de las mejores gangas en tecnología. Si estás buscando un smartphone, un televisor OLED, un SSD o un smartwatch, hoy l… [+16403 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Digital Trends"
+      },
+      "author": "Trevor Mogg",
+      "title": "Apple boss Tim Cook hints at who might succeed him",
+      "description": "Estimated to be worth more than $1 billion, Apple CEO Tim Cook could retire any time he likes. But in a recent interview he said he's going nowhere.",
+      "url": "https://www.digitaltrends.com/news/apple-boss-tim-cook-hints-at-who-might-succeed-him/",
+      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/11/tim-cook-bbc-sounds.jpg?resize=1200%2C630&p=1",
+      "publishedAt": "2023-11-22T03:20:26Z",
+      "content": "Estimated by Bloomberg to be worth more than $1 billion, Apple CEO Tim Cook could retire any time he likes.\r\nBut at 63, the tech chief appears to be as enthusiastic about running the show as the day … [+2207 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Digital Trends"
+      },
+      "author": "Andy Boxall",
+      "title": "Why the Apple Watch’s newest feature is doomed to fail",
+      "description": "The Double Tap gesture control for the Apple Watch is great, but unfortunately, history shows similar tech doesn't always survive.",
+      "url": "https://www.digitaltrends.com/mobile/apple-watch-double-tap-looks-doomed-to-fail-why/",
+      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/11/apple-watch-double-tap-symbol.jpg?resize=1200%2C630&p=1",
+      "publishedAt": "2023-11-22T13:00:58Z",
+      "content": "Andy Boxall / Digital Trends\r\nGesture control systems work best when they are simple, quick, and easy to learn. They also have to feel natural and intuitive, preferably so you remember them, and most… [+9422 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Digital Trends"
+      },
+      "author": "Jennifer Allen",
+      "title": "I love my Apple Watch Series 9 and it’s $70 off for Black Friday",
+      "description": "The Apple Watch Series 9 is going to shake up how you look after yourself for the better. It's on sale now at Amazon for a great price.",
+      "url": "https://www.digitaltrends.com/mobile/apple-watch-series-9-deal-amazon-november-2023/",
+      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/09/apple-watch-series-9-apps.jpg?resize=1200%2C630&p=1",
+      "publishedAt": "2023-11-22T10:20:33Z",
+      "content": "Andy Boxall / Digital Trends\r\nIf you love to keep track of your best runs, the steps you take, and mostly everything else to do with your health, you need one of the best Black Friday smartwatch deal… [+2512 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Digital Trends"
+      },
+      "author": "Simon Cohen",
+      "title": "Wiim’s new amplified streamer mimics the Sonos Amp, for $299",
+      "description": "The Wiim Amp is the latest network music streamer from Wiim to take the Sonos formula and make it far more affordable.",
+      "url": "https://www.digitaltrends.com/home-theater/wiim-amp/",
+      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/11/WiiM-Amp-1.jpeg?resize=1200%2C630&p=1",
+      "publishedAt": "2023-11-22T15:27:50Z",
+      "content": "Wiim\r\nWiim’s newest product, the Wiim Amp, is an amplified network media player that bears a strong resemblance to the Sonos Amp, both in function and form. However, in typical Wiim fashion, it costs… [+2056 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Atlantic"
+      },
+      "author": "David Sims",
+      "title": "An Enjoyable Extravaganza About … Napoleon?",
+      "description": "Ridley Scott’s take on the French leader is a sample platter of big battles and bristling insecurities.",
+      "url": "https://www.theatlantic.com/culture/archive/2023/11/napoleon-movie-review/676082/?utm_source=feed",
+      "urlToImage": null,
+      "publishedAt": "2023-11-22T13:00:00Z",
+      "content": "When it comes to battle tactics, Napoleon Bonaparte (as played by Joaquin Phoenix) is very gun forward. There are few conflicts he marches into that don’t involve the firing of many cannons, an insti… [+4851 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eclecticlight.co"
+      },
+      "author": null,
+      "title": "What has changed in CPU cores in M3 chips?",
+      "description": "Little seems to have changed in CPU cores in M3 chips, if you read reviews. Dig a bit deeper and there are major changes, as explained here.",
+      "url": "https://eclecticlight.co/2023/11/22/what-has-changed-in-cpu-cores-in-m3-chips/",
+      "urlToImage": "https://eclecticlightdotcom.files.wordpress.com/2023/11/m1m3psummary.png",
+      "publishedAt": "2023-11-22T13:43:20Z",
+      "content": "If you read the initial reviews of Apple’s new M3-based Macs, you’d be forgiven for thinking little had changed in their CPU cores, apart from a rejigging of numbers and an increase in the maximum fr… [+8572 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Unherd.com"
+      },
+      "author": "Aris Roussinos",
+      "title": "Ridley Scott: Our Anglo-Saxon Maximus",
+      "description": "The Napoleonic Age is just the latest era he has conquered",
+      "url": "http://unherd.com/2023/11/ridley-scott-our-anglo-saxon-maximus/",
+      "urlToImage": "https://unherd.com/wp-content/uploads/2023/11/Screenshot-2023-11-21-at-15.55.50.remini-enhanced-scaled.jpg",
+      "publishedAt": "2023-11-22T11:27:55Z",
+      "content": "A decade ago, I rewatched Gladiator in a freezing cold forward-operating base outside Mosul with Kurdish Peshmerga, cocooned in brightly-coloured blankets. When I complained that the sound wasnt work… [+11486 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gigazine.net"
+      },
+      "author": "@GIGAZINE",
+      "title": "iPhone 15 Pro MaxとPixel 8 Proのどちらがより良い写真を撮れるかブラインドテストを実施",
+      "description": "AppleのiPhone 15 Pro MaxとGoogleのPixel 8 Proはどちらも記事作成時点で最上位のフラグシップモデルであり、特に搭載されているカメラが非常に高機能なものとなっています。IT系ニュースブログのMashableが、iPhone 15 ProとPixel 8 Proで同じ被写体を撮影した写真を用いたブラインドテストを行っています。続きを読む...",
+      "url": "https://gigazine.net/news/20231122-iphone-15-pro-max-vs-pixel-8-pro/",
+      "urlToImage": "https://i.gzn.jp/img/2023/11/22/iphone-15-pro-max-vs-pixel-8-pro/00.jpg",
+      "publishedAt": "2023-11-22T09:44:00Z",
+      "content": "AppleiPhone 15 Pro MaxGooglePixel 8 ProITMashableiPhone 15 ProPixel 8 Pro\r\niPhone 15 Pro Max vs. Pixel 8 Pro: I blind-tested 20 iPhone owners on which takes better pictures | Mashablehttps://mashable… [+319 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "heise online"
+      },
+      "author": "Leo Becker",
+      "title": "heise-Angebot: Neues Webinar: iPhone & Co erfolgreich im Unternehmen einsetzen",
+      "description": "'Apple Readiness' prüfen: Unser neues Webinar vermittelt, wie sich kleine und mittlere Unternehmen optimal auf den Einsatz von Apple-Geräten vorbereiten können.",
+      "url": "https://www.heise.de/news/Neues-Webinar-iPhone-Co-erfolgreich-im-Unternehmen-einsetzen-9532355.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/0/0/6/2/3/Apple-Readiness-Ticker-Header-16-9-28891ccce5697255.jpg",
+      "publishedAt": "2023-11-22T11:00:00Z",
+      "content": "Neue Geräte im Unternehmen einzuführen, wird schnell zu einer Herausforderung, gerade, wenn es sich um neue Hardware- und Software-Plattformen handelt. Hier hilft nur die richtige Vorbereitung. Dabei… [+1249 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "heise online"
+      },
+      "author": "Daniel Herbig",
+      "title": "Sonos-Kopfhörer kommen laut Bericht im April",
+      "description": "Sonos baut vor allem Lautsprecher, bald soll aber der erste Kopfhörer erscheinen. Laut Bloomberg wird er im April veröffentlicht – und kostet über 400 Dollar.",
+      "url": "https://www.heise.de/news/Sonos-Kopfhoerer-kommen-laut-Bericht-im-April-9535833.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/0/2/4/9/3/256752503_c2d0c989b0-9b7095178ea04888.jpeg",
+      "publishedAt": "2023-11-22T09:06:00Z",
+      "content": "Sonos will seine ersten Kopfhörer offenbar bereits im April veröffentlichen. Einem Bloomberg-Bericht zufolge plant Sonos zudem eine Streaming-Box, die mit Apple TV und den Fire-TV-Geräten von Amazon … [+1658 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "heise online"
+      },
+      "author": "Frank Schräer",
+      "title": "Mittwoch: Meta reduziert KI-Verantwortung, Elon Musk verklagt X-Kritiker",
+      "description": "Metas neue KI-Präferenzen + Musk mit thermonuklearer Klage + Android-Deal von Spotify & Google + ISS mit Umweltsensoren + Bit-Rauschen zu grüner Chipproduktion",
+      "url": "https://www.heise.de/news/Mittwoch-Meta-reduziert-KI-Verantwortung-Elon-Musk-verklagt-X-Kritiker-9535684.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/0/2/4/0/8/mitwoch-247b79620cf01031.webp",
+      "publishedAt": "2023-11-22T05:30:00Z",
+      "content": "Der Facebook-Konzern hat bei Künstlicher Intelligenz intern umstrukturiert. Die meisten Mitarbeiter des Responsible-AI-Teams bei Meta arbeiten jetzt an generativer KI. Der Konzern will aber weiter ve… [+4018 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Benjamin Mayo",
+      "title": "Apple TV+ shows and movies: Everything to watch on Apple TV Plus",
+      "description": "Apple TV+ offers exclusive Apple original TV shows and movies in 4K HDR quality. You can watch across all of your screens and pick up where you left off on any device. Apple TV+ costs $9.99 per month. Here’s every Apple original television show and movie avai…",
+      "url": "https://9to5mac.com/2023/11/22/apple-tv-plus-tv-shows-movies-guide/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/12/apple-tv-plus.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-11-22T09:01:36Z",
+      "content": "Apple TV+ offers exclusive Apple original TV shows and movies in 4K HDR quality. You can watch across all of your screens and pick up where you left off on any device. Apple TV+ costs $9.99 per month… [+73423 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Filipe Espósito",
+      "title": "This is one of the earliest pre-production Apple Watch prototypes ever found",
+      "description": "The first Apple Watch was launched in stores in April 2015, but Apple had worked on the device long before. Now, thanks to rare Apple device collector Giulio Zompetti, we’ve been able to take a look at one of the earliest Apple Watch prototypes, built more th…",
+      "url": "https://9to5mac.com/2023/11/21/pre-production-apple-watch-prototype/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/11/Apple-Watch-proto.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-11-22T00:27:38Z",
+      "content": "The first Apple Watch was launched in stores in April 2015, but Apple had worked on the device long before. Now, thanks to rare Apple device collector Giulio Zompetti, we’ve been able to take a look … [+1687 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Rikka Altland",
+      "title": "Best Black Friday 2023 Apple Watch deals: Ultra 2 $60 off, Series 9 from $330, more",
+      "description": "These are all of the best Black Friday deals on Apple Watch. All of the latest models from Apple are now discounted, with new all-time lows setting the pace this year on everything from the entry-level SE 2nd Gen to the rugged Ultra. You can head below for al…",
+      "url": "https://9to5mac.com/2023/11/22/best-apple-watch-black-friday-deals-2023/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/10/Carbon-neutral-Apple-Watch-claims.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-11-22T10:45:00Z",
+      "content": "These are all of the best Black Friday deals on Apple Watch. All of the latest models from Apple are now discounted, with new all-time lows setting the pace this year on everything from the entry-lev… [+3658 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Rikka Altland",
+      "title": "Best Black Friday 2023 iPad deals: 10th Gen $349, 10.2-inch $230, Apple Pencil from $71, more",
+      "description": "This year’s Black Friday sale has the best prices we’ve seen on the latest iPads from Apple. The deals are just beginning to go live, but there are already some enticing discounts across the latest iPadOS tablets, companion Magic Keyboards, Apple Pencils, and…",
+      "url": "https://9to5mac.com/2023/11/22/best-ipad-black-friday-deals-2023/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/10/Apple-iPad-10th-gen-Magic-Keyboard-Folio-Apple-Pencil-221018_big.jpg.large_2x.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-11-22T09:06:10Z",
+      "content": "This year’s Black Friday sale has the best prices we’ve seen on the latest iPads from Apple. The deals are just beginning to go live, but there are already some enticing discounts across the latest i… [+7522 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Benjamin Mayo",
+      "title": "Apple TV+ kicks off the holiday season with a Christmas musical special starring Hannah Waddingham and an assortment of Ted Lasso cameos",
+      "description": "Apple TV+ today kicked off its holiday programming lineup with a new musical special ‘Home for Christmas’, in which Hannah Waddingham sings a variety of classic songs with cameos from much of the Ted Lasso cast. The 45-minute show was filmed earlier this year…",
+      "url": "https://9to5mac.com/2023/11/22/how-to-watch-apple-tv-christmas-special-hannah-waddingham/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/11/apple-tv-home-for-christmas.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-11-22T11:15:11Z",
+      "content": "Apple TV+ today kicked off its holiday programming lineup with a new musical special ‘Home for Christmas’, in which Hannah Waddingham sings a variety of classic songs with cameos from much of the Ted… [+2141 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Rikka Altland",
+      "title": "Best Black Friday 2023 Apple Deals: M3 MacBook Pro $200 off, official accessories, more",
+      "description": "It’s officially Black Friday 2023 here at 9to5mac, and the team over at 9to5Toys has already begun working hard to curate all of the best deals of the holiday season. Through Thanksgiving Week, we’ll be delivering  on Apple devices, home goods, fashion, and m…",
+      "url": "https://9to5mac.com/2023/11/22/best-black-friday-2023-apple-deals/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/11/9to5toys-black-friday-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-11-22T10:07:00Z",
+      "content": "Its officially Black Friday 2023 here at 9to5mac, and the team over at 9to5Toys has already begun working hard to curate all of the best deals of the holiday season. Through Thanksgiving Week, well b… [+5067 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Chance Miller",
+      "title": "OLED iPad Pro: What the rumors say and why Apple is making the switch",
+      "description": "Apple is planning to overhaul its iPad lineup with OLED displays starting sometime next year. This transition will come with some changes in terms of features, prices, and more. Here’s everything we know about Apple’s plans for OLED iPads, and why it’s choosi…",
+      "url": "https://9to5mac.com/2023/11/22/oled-ipad-here-what-we-know/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/03/oled-ipad-pro.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-11-22T15:31:12Z",
+      "content": "Apple is planning to overhaul its iPad lineup with OLED displays starting sometime next year. This transition will come with some changes in terms of features, prices, and more. Here’s everything we … [+3773 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ben Lovejoy",
+      "title": "iPhone 15 hugely popular in South Korea – while Japanese buyers seek out used iPhone 13 minis",
+      "description": "The iPhone 15 has proven hugely popular in Samsung’s home market of South Korea, says a new report today. \n\n\n\nMarket intelligence figures suggest that launch sales of the new iPhone line-up were more than 40% higher than those of last year’s iPhone 14 series …",
+      "url": "https://9to5mac.com/2023/11/22/iphone-15-hugely-popular-korea/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/11/iPhone-15-hugely-popular-in-South-Korea-–-while-Japanese-buyers-seek-out-used-iPhone-13-minis.jpg.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-11-22T15:22:46Z",
+      "content": "The iPhone 15 has proven hugely popular in Samsung’s home market of South Korea, says a new report today. \r\nMarket intelligence figures suggest that launch sales of the new iPhone line-up were more t… [+2379 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Rikka Altland",
+      "title": "Best Mac Black Friday 2023 deals: M3 MacBooks from $1,449, M2 Mac mini $449, more",
+      "description": "Black Friday is ushering in discounts across just about everything Apple sells, but Macs are one particular highlight. Everything from the latest M3 MacBook Pros to last year’s devices and more are taking the stage, including desktop machines and so much more…",
+      "url": "https://9to5mac.com/2023/11/22/best-mac-black-friday-2023-deals/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/11/macbook-pro-space-black0008.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-11-22T09:06:32Z",
+      "content": "Black Friday is ushering in discounts across just about everything Apple sells, but Macs are one particular highlight. Everything from the latest M3 MacBook Pros to last year’s devices and more are t… [+7125 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ben Lovejoy",
+      "title": "Windows Hello fingerprint security tests failed on top three laptops",
+      "description": "While Windows laptop users like to think they have their own version of Touch ID, it appears not to offer the same level of security. The Windows Hello fingerprint authentication system on the top three laptops to use it has been put to the test by security r…",
+      "url": "https://9to5mac.com/2023/11/22/windows-hello-fingerprint-security/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/11/Windows-Hello-fingerprint-security.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-11-22T14:09:18Z",
+      "content": "While Windows laptop users like to think they have their own version of Touch ID, it appears not to offer the same level of security. The Windows Hello fingerprint authentication system on the top th… [+5736 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Michael Potuck",
+      "title": "Procreate launches iPad animation app ‘Dreams’ with ‘powerful tools’ accessible for ‘anyone’",
+      "description": "iPad illustration pioneer Procreate has officially launched its new app called “Dreams”. It’s designed to make it easy to “create rich 2D animations, expressive videos, and breathtaking stories.” And the company says “anyone” can take advantage of the “powerf…",
+      "url": "https://9to5mac.com/2023/11/22/procreate-launches-ipad-animation-app-dreams/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/11/procreate-dreams-ipad-app-launch.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-11-22T14:41:55Z",
+      "content": "iPad illustration pioneer Procreate has officially launched its new app called “Dreams”. It’s designed to make it easy to create rich 2D animations, expressive videos, and breathtaking stories. And t… [+1495 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Police"
+      },
+      "author": "Tyler Lacoma",
+      "title": "Apple Pay Later: How Apple's zero-interest, BNPL platform works",
+      "description": "Apple Pay Later is a buy now, pay later app that you can access from Apple Wallet. It offers no-interest short-term financing for purchases.",
+      "url": "https://www.androidpolice.com/apple-pay-later-guide/",
+      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/11/apple-pay-use-store.jpg",
+      "publishedAt": "2023-11-22T11:09:17Z",
+      "content": "Apple Pay is Apple's digital wallet and payment system for hands-free payments with the swipe of an iPhone. Google Wallet lets you do something similar with an Android phone. In 2023, Apple added a f… [+4375 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Police"
+      },
+      "author": "Sakshi Udavant",
+      "title": "Should you buy headphones on Black Friday?",
+      "description": "Is Black Friday the best time to buy headphones? Should you wait for a better deal?",
+      "url": "https://www.androidpolice.com/should-you-buy-headphones-black-friday/",
+      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2023/11/shure-aonic-50-gen-2-headphones-in-case-labels-out-1.jpg",
+      "publishedAt": "2023-11-22T12:31:17Z",
+      "content": "One of the best parts about entering the holiday season? The gifts! Whether you’re thinking of gifting Christmas candies or tech-y stocking stuffers, you’re in for a treat! Most brands and retailers … [+4605 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Police"
+      },
+      "author": "Stephen Radochia",
+      "title": "Phone cameras are better than ever, so why don't I care?",
+      "description": "Nobody wants to use garbage, but phone cameras often get too much attention",
+      "url": "https://www.androidpolice.com/phone-cameras-are-better-than-ever-so-why-dont-i-care/",
+      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2023/11/pixel-8-pro-cameras-1.JPG",
+      "publishedAt": "2023-11-22T12:31:17Z",
+      "content": "Few things irk me more than sitting down to watch an introduction of a new smartphone only to have 30 minutes of a 45-minute presentation dedicated to cameras. We’ve seen videos shot by Ridley Scott,… [+2960 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thekitchn.com"
+      },
+      "author": "Diane McMartin",
+      "title": "Why You Should *Never* Store a Bottle of Wine on Your Kitchen Counter",
+      "description": "Read before uncorking.\nREAD MORE...",
+      "url": "https://www.thekitchn.com/never-store-wine-bottle-kitchen-23607550",
+      "urlToImage": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/k%2FPhoto%2FLifestyle%2F2019-11-Why-You-Should-Never-Store-a-Bottle-of-Wine-on-Your-Kitchen-Counter%2FWhy-You-Should-Never-Store-A-Bottle-of-Wine-On-Your-Kitchen-Counter_068",
+      "publishedAt": "2023-11-22T14:30:00Z",
+      "content": "We independently select these products—if you buy from one of our links, we may earn a commission. All prices were accurate at the time of publishing.\r\nMore and more people seem to be getting into wi… [+5131 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (William Gallagher)",
+      "title": "Lyford, Texas gains Apple Distinguished status for its schools",
+      "description": "TMache elementary, middle school, and high school in Lyford, Texas, have been recognized by Apple in its Apple Distinguished School program.Lyford School, Texas (Source: myRGV)Apple has been steadily adding to its list of distinguished educational establishme…",
+      "url": "https://appleinsider.com/articles/23/11/22/lyford-texas-gains-apple-distinguished-status-for-its-schools",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/57416-116891-000-lead-Lyford-xl.jpg",
+      "publishedAt": "2023-11-22T12:44:20Z",
+      "content": "Lyford School, Texas (Source: myRGV)\r\nTMache elementary, middle school, and high school in Lyford, Texas, have been recognized by Apple in its Apple Distinguished School program.\r\nApple has been stea… [+2020 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (Jess Pingrey)",
+      "title": "Daily deals Nov. 22: Apple Watch SE $179, $100 off Apple Watch Series 9, $499 Mac mini, $399 iPad mini, more",
+      "description": "Today's most valuable deals include $100 off an M2 Mac mini, $100 off an Apple Watch Series 9, an Echo Auto for $10, 42% off an iRobot Roomba 694 Robot Vacuum, up to 71% off an Aduro Surge Glow multi-charging station, and more.Save on Apple Watch & iPad miniT…",
+      "url": "https://appleinsider.com/articles/23/11/22/daily-deals-nov-22-apple-watch-se-179-100-off-apple-watch-series-9-499-mac-mini-399-ipad-mini-more",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/57411-116892-daily-deals-nov-22-xl.jpg",
+      "publishedAt": "2023-11-22T14:24:35Z",
+      "content": "Save on Apple Watch &amp; iPad mini\r\nToday's most valuable deals include $100 off an M2 Mac mini, $100 off an Apple Watch Series 9, an Echo Auto for $10, 42% off an iRobot Roomba 694 Robot Vacuum, up… [+3618 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (William Gallagher)",
+      "title": "Ted Lasso returns to promote Hannah Waddingham's special",
+      "description": "Ted Lasso — or at least star Jason Sudeikis — is back in a new role as taxi driver to Hannah Waddingham, ahead of her Apple TV+ Christmas special.Jason Sudeikis (left) and Hannah Waddingham (right)\"Ted Lasso\" was the first breakout hit for Apple TV+, and when…",
+      "url": "https://appleinsider.com/articles/23/11/22/ted-lasso-returns-to-promote-hannah-waddinghams-special",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/57420-116906-000-lead-Waddingham-promo-xl.jpg",
+      "publishedAt": "2023-11-22T15:18:24Z",
+      "content": "Jason Sudeikis (left) and Hannah Waddingham (right)\r\nTed Lasso — or at least star Jason Sudeikis — is back in a new role as taxi driver to Hannah Waddingham, ahead of her Apple TV+ Christmas special.… [+784 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (William Gallagher)",
+      "title": "Apple illegally denied benefits to union workers, says US labor board",
+      "description": "The National Labor Relations Board claims that Apple has violated labor laws by refusing to give union workers the same benefits as other staff.Apple Towson Town Center, MarylandThis new accusation follows a June 2023 ruling by the board concluded that Apple'…",
+      "url": "https://appleinsider.com/articles/23/11/22/apple-illegally-denied-benefits-to-union-workers-says-us-labor-board",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/48215-94182-000-lead-Towson-Town-Center-xl.jpg",
+      "publishedAt": "2023-11-22T12:18:37Z",
+      "content": "Apple Towson Town Center, Maryland\r\nThe National Labor Relations Board claims that Apple has violated labor laws by refusing to give union workers the same benefits as other staff.\r\nThis new accusati… [+1022 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (Appleinsider Staff)",
+      "title": "Get an M2 Max Mac Studio for just $1,795, plus 3 years of AppleCare for $139 with coupon",
+      "description": "The Mac Studio, equipped with the M2 Max chip, stands out as a top choice for advanced computing needs. An exclusive promotion makes the desktop (and optional AppleCare) even more affordable.Get a current Mac Studio for just $1,795Apple designed the Mac Studi…",
+      "url": "https://appleinsider.com/articles/23/11/22/get-an-m2-max-mac-studio-for-just-1795-plus-3-years-of-applecare-for-139-with-coupon",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/57301-116889-mac-studio-price-cut-xl.jpg",
+      "publishedAt": "2023-11-22T03:59:27Z",
+      "content": "Get a current Mac Studio for just $1,795\r\nThe Mac Studio, equipped with the M2 Max chip, stands out as a top choice for advanced computing needs. An exclusive promotion makes the desktop (and optiona… [+2135 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (Christine McKee)",
+      "title": "Get a Microsoft Windows 11 Pro license for just $22.97",
+      "description": "Record-breaking Black Friday savings are in effect on Windows 11 Pro, with an 88% discount driving the price down to $22.97.Users looking for the best Black Friday deal on Microsoft Windows can save 88% instantly this week, with a Windows 11 Pro license falli…",
+      "url": "https://appleinsider.com/articles/23/11/22/get-a-microsoft-windows-11-pro-license-for-just-2297",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/57414-116890-microsoft-windows-11-pro-xl.jpg",
+      "publishedAt": "2023-11-22T07:16:07Z",
+      "content": "Record-breaking Black Friday savings are in effect on Windows 11 Pro, with an 88% discount driving the price down to $22.97.\r\nUsers looking for the best Black Friday deal on Microsoft Windows can sav… [+1255 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (AppleInsider Staff)",
+      "title": "Best Black Friday gaming console deals on PS5, Nintendo Switch, Xbox",
+      "description": "Level up your holiday experience by bagging yourself a new game console in these excellent Black Friday game console deals.Snag yourself a game console this Black FridayMake your holidays more tolerable by getting a brand new game console for your television.…",
+      "url": "https://appleinsider.com/articles/23/11/22/best-black-friday-gaming-console-deals-on-ps5-nintendo-switch-xbox",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/57409-116884-black-friday-gaming-xl.jpg",
+      "publishedAt": "2023-11-22T08:12:51Z",
+      "content": "Snag yourself a game console this Black Friday\r\nLevel up your holiday experience by bagging yourself a new game console in these excellent Black Friday game console deals. \r\nMake your holidays more t… [+1958 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (William Gallagher)",
+      "title": "iPhone 15 breaks smartphone market's sales slump",
+      "description": "After 27 consecutive months of sales sinking year over year, new research says the iPhone 15 helped the global smartphone market see its first positive growth since June 2021.iPhone 15 Pro and Pro MaxPreviously, Counterpoint Research has reported that while t…",
+      "url": "https://appleinsider.com/articles/23/11/22/iphone-15-breaks-smartphone-markets-sales-slump",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/56416-114577-iphone-15-pro-xl.jpg",
+      "publishedAt": "2023-11-22T14:38:50Z",
+      "content": "iPhone 15 Pro and Pro Max\r\nAfter 27 consecutive months of sales sinking year over year, new research says the iPhone 15 helped the global smartphone market see its first positive growth since June 20… [+1018 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.jp"
+      },
+      "author": "編集部",
+      "title": "最近Ankerの充電器とかで「ガリウム」を使っているのをよく見るけど、あれって何が違うの？",
+      "description": "最近Anker（アンカー）の充電器とかで「窒化ガリウム（あるいはGaN）」と書いているのをよく見ますが、あれって今までの充電器と何が違うのでしょうか？ 結論から言うと窒化ガリウムという新しい素材を内部に使うことで、充電器をコンパクトで発熱を少なく作ることができるんです。",
+      "url": "https://www.gizmodo.jp/2023/11/gan-explain-1.html",
+      "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2022/11/26/221126_gan_explain_0.jpg?w=1280&h=630&f=jpg",
+      "publishedAt": "2023-11-22T13:00:00Z",
+      "content": "2023112223Amazon\r\n20221130\r\nAnkerGaN\r\nPhoto: \r\n100V\r\n20%100V20V1,000\r\nImage: Anker\r\n100V\r\nGaN\r\nGaN1AnkerPC30W\r\niPhoneAirPodsUSB-C to Lightning\r\nPC\r\nGaNCIOAnkerCIO\r\nPC\r\nAnkerGaN PrimeMacBook ProiPhone… [+73 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yanko Design"
+      },
+      "author": "JC Torres",
+      "title": "Top 10 Apple Accessories that are the sleek productivity hacks you need for the ultimate work setup",
+      "description": "Top 10 Apple Accessories that are the sleek productivity hacks you need for the ultimate work setupEver wanted to connect half a dozen things to your 2-port laptop? Or how about charging multiple devices at the same time without getting trapped...",
+      "url": "https://www.yankodesign.com/2023/11/21/top-10-apple-accessories-that-are-the-sleek-productivity-hacks-you-need-for-the-ultimate-work-setup/",
+      "urlToImage": "https://www.yankodesign.com/images/design_news/2023/11/top-10-gadget-designs-to-boost-your-productivity-to-the-next-level/Adam-Elements_Apple-Accessories_Top-10_Gift-Guide_hero.jpg",
+      "publishedAt": "2023-11-22T02:45:34Z",
+      "content": "Ever wanted to connect half a dozen things to your 2-port laptop? Or how about charging multiple devices at the same time without getting trapped in a tangle of cables? Do your neck and wrists ache w… [+11284 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Schneier.com"
+      },
+      "author": "Bruce Schneier",
+      "title": "Apple to Add Manual Authentication to iMessage",
+      "description": "Signal has had the ability to manually authenticate another account for years. iMessage is getting it:\nThe feature is called Contact Key Verification, and it does just what its name says: it lets you add a manual verification step in an iMessage conversation …",
+      "url": "https://www.schneier.com/blog/archives/2023/11/apple-to-add-manual-authentication-to-imessage.html",
+      "urlToImage": null,
+      "publishedAt": "2023-11-22T04:52:01Z",
+      "content": "Signal has had the ability to manually authenticate another account for years. iMessage is getting it:\r\nThe feature is called Contact Key Verification, and it does just what its name says: it lets yo… [+847 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Journal du geek"
+      },
+      "author": "Journal du Geek",
+      "title": "Avec le rabais insolent d’Amazon, les iPad 10 sont 3x moins chers que les iPad Pro",
+      "description": "Pour ce Black Friday, Amazon n'épargne aucun produit de la gamme Apple. Après les MacBook ou les Apple Watch, le géant américain s'attaque aux iPad 10 de 2022. Si vous voulez acheter une tablette tactile Apple pour environ 500 euros, c'est une occasion en or.…",
+      "url": "https://www.journaldugeek.com/bon-plan/avec-le-rabais-insolent-damazon-les-ipad-10-sont-3x-moins-chers-que-les-ipad-pro/",
+      "urlToImage": "https://www.journaldugeek.com/app/uploads/2023/11/ipad10apple.jpg",
+      "publishedAt": "2023-11-22T06:36:17Z",
+      "content": "Pour ce Black Friday, Amazon multiplie les offres complètement folles avec des promotions renversantes. Le géant du e-commerce nous déstabilise avec des prix bas encore jamais vu sur son site. Plus q… [+3706 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Journal du geek"
+      },
+      "author": "Gregori Pujol",
+      "title": "Vous cherchez une tablette Apple ? La FNAC craque sur le prix de l’iPad 9 !",
+      "description": "Pour le premier jour des soldes d'été, Rakuten propose une avalanche de promotions sur de nombreux produits. Le marchand en ligne a d'ailleurs mis à la disposition de ses clients des codes qui permettent de profiter de remises supplémentaires.\nVous cherchez u…",
+      "url": "https://www.journaldugeek.com/bon-plan/vous-cherchez-une-tablette-apple-la-fnac-craque-sur-le-prix-de-lipad-9/",
+      "urlToImage": "https://www.journaldugeek.com/app/uploads/2022/08/apple-ipad-9.jpg",
+      "publishedAt": "2023-11-22T12:46:01Z",
+      "content": "Si vous cherchez à vous équiper de l’iPad 9 d’Apple, vous serez ravi d’apprendre que ce dernier est en promotion pour Black Friday puisque la FNAC le propose à 339 euros au lieu de 439 euros.\r\nJe pro… [+2465 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Journal du geek"
+      },
+      "author": "Journal du Geek",
+      "title": "À prix FOU pour Black Friday, cet antivirus déjoue les plans malsains des cybercriminels",
+      "description": "Pendant la Black Week, Intego propose une promotion folle sur son antivirus pour Mac. A deux jours du Black Friday, il dégaine une offre XL qui permet de profiter d'une remise de -60% sur son logiciel de sécurité dédié aux ordinateurs Apple. \nÀ prix FOU pour …",
+      "url": "https://www.journaldugeek.com/bon-plan/prix-fou-black-friday-antivirus-dejoue-plans-malsains-cybercriminels/",
+      "urlToImage": "https://www.journaldugeek.com/app/uploads/2023/10/sigmund-by-tzimt0ms-unsplash.jpg",
+      "publishedAt": "2023-11-22T08:20:05Z",
+      "content": "Pour Black Friday, profitez d’une offre exceptionnelle pour vous équiper du meilleur antivirus Mac du marché. En ce moment, et pour une durée limitée, Intego, spécialiste de la sécurité sur Mac affic… [+4207 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Journal du geek"
+      },
+      "author": "Antoine Gautherie",
+      "title": "Noël 2023 : 6 ordinateurs portables à mettre sous le sapin",
+      "description": "Besoin de changer d'ordinateur, ou tout simplement envie de vous faire plaisir pour Noël ? Voici notre sélection de six machines qui auront parfaitement leur place sous le sapin.\nNoël 2023 : 6 ordinateurs portables à mettre sous le sapin",
+      "url": "https://www.journaldugeek.com/dossier/noel-2023-6-ordinateurs-portables-a-mettre-sous-le-sapin/",
+      "urlToImage": "https://www.journaldugeek.com/app/uploads/2023/11/pc-noel.jpg",
+      "publishedAt": "2023-11-22T10:01:02Z",
+      "content": "ASUS Zenbook S 13 OLED : le notebook Windows ultime\r\nLes notebooks pullulent aujourdhui sur le marché, mais la plupart dentre eux narrivent même pas à la cheville du Zenbook S 13 OLED. Cet appareil e… [+4263 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Applesfera.com"
+      },
+      "author": "Jesús Quesada",
+      "title": "Dónde comprar más barato el Apple Watch este Black Friday 2023",
+      "description": "En Applesfera ya hemos traído las mejores ofertas de dispositivos de Apple por el Black Friday, además de recopilatorios dedicados en exclusiva a sus iPhone y iPad. Ahora le toca el turno a los Apple Watch, y estos son los chollos más interesantes en relojes …",
+      "url": "https://www.applesfera.com/seleccion/donde-comprar-barato-apple-watch-este-black-friday-2023",
+      "urlToImage": "https://i.blogs.es/87db0a/apple-watch-mejores-ofertas/840_560.jpeg",
+      "publishedAt": "2023-11-22T06:59:29Z",
+      "content": "En Applesfera ya hemos traído las mejores ofertas de dispositivos de Apple por el Black Friday, además de recopilatorios dedicados en exclusiva a sus iPhone y iPad. Ahora le toca el turno a los Apple… [+3866 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Applesfera.com"
+      },
+      "author": "Fran Bouzas",
+      "title": "Cuándo sale el Spotify Wrapped 2023 con tu resumen musical del 2023 y cómo hacer lo mismo con Apple Music",
+      "description": "Como cada año, Spotify y Apple Music se están preparando para su “Wrapped”. Es una función que resume en una serie de cifras y datos interesantes la música que hemos escuchado este año. Qué artista ha sido nuestro favorito, qué álbum ha tenido más reproduccio…",
+      "url": "https://www.applesfera.com/tutoriales/cuando-sale-spotify-wrapped-2023-tu-resumen-musical-2023-como-hacer-apple-music",
+      "urlToImage": "https://i.blogs.es/99b105/20/840_560.jpeg",
+      "publishedAt": "2023-11-22T10:50:46Z",
+      "content": "Como cada año, Spotify y Apple Music se están preparando para su Wrapped. Es una función que resume en una serie de cifras y datos interesantes la música que hemos escuchado este año. Qué artista ha … [+2102 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Applesfera.com"
+      },
+      "author": "Miguel López",
+      "title": "Tim Cook le confiesa a Dua Lipa los planes de su retirada como CEO de Apple",
+      "description": "No quiero adelantar acontecimientos que no necesitan llegar rápido, pero hay que pensar en que Tim Cook no estará siempre al frente de Apple. El actual CEO de la compañía lleva en el puesto desde la muerte de Steve Jobs en 2011, y nada menos que 25 años en to…",
+      "url": "https://www.applesfera.com/apple-1/tim-cook-le-confiesa-a-dua-lipa-planes-su-retirada-como-ceo-apple",
+      "urlToImage": "https://i.blogs.es/d9d615/captura-de-pantalla-2023-11-22-a-las-11.50.01/840_560.jpeg",
+      "publishedAt": "2023-11-22T11:51:45Z",
+      "content": "No quiero adelantar acontecimientos que no necesitan llegar rápido, pero hay que pensar en que Tim Cook no estará siempre al frente de Apple. El actual CEO de la compañía lleva en el puesto desde la … [+3145 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Applesfera.com"
+      },
+      "author": "Fran Bouzas",
+      "title": "Ya sabemos cuál es el móvil con la mejor cámara de 2023 y Apple ha vuelto a conseguirlo",
+      "description": "Como ya empieza a ser tradición, nuestro compañero Ricardo Aguilar\r\n, de Xataka, ha comparado\r\n los mejores móviles del mercado para averiguar cuál tiene la cámara más impresionante de todas. En 2022 el primer premio se lo llevó el modelo OPPO para sorpresa d…",
+      "url": "https://www.applesfera.com/iphone/ya-sabemos-cual-es-el-movil-con-la-mejor-camara-de-2023-y-apple-ha-vuelto-a-conseguirlo",
+      "urlToImage": "https://i.blogs.es/932f08/1366_2000/840_560.png",
+      "publishedAt": "2023-11-22T14:11:25Z",
+      "content": "Como ya empieza a ser tradición, nuestro compañero Ricardo Aguilar\r\n, de Xataka, ha comparado\r\n los mejores móviles del mercado para averiguar cuál tiene la cámara más impresionante de todas. En 2022… [+1886 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Applesfera.com"
+      },
+      "author": "Miguel López",
+      "title": "El fichaje de Sam Altman por Microsoft se queda en nada: el creador de ChatGPT regresa a OpenAI con una condición",
+      "description": "El futuro de la IA parece haberse encarrilado de nuevo. El culebrón que empezó el pasado fin de semana con el despido de Sam Altman como CEO de OpenAI ha acabado volviendo al punto de inicio: Altman vuelve a ser el CEO y el interino Emmet Shear abandona el pu…",
+      "url": "https://www.applesfera.com/apple-1/fichaje-sam-altman-microsoft-se-queda-nada-creador-chatgpt-regresa-a-openai-condicion",
+      "urlToImage": "https://i.blogs.es/f3f6ea/sam-altman/840_560.jpeg",
+      "publishedAt": "2023-11-22T09:39:57Z",
+      "content": "El futuro de la IA parece haberse encarrilado de nuevo. El culebrón que empezó el pasado fin de semana con el despido de Sam Altman como CEO de OpenAI ha acabado volviendo al punto de inicio: Altman … [+2789 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Applesfera.com"
+      },
+      "author": "Alberto García",
+      "title": "Airpods, Beats y más: estos son los cinco mejores chollos en auriculares Bluetooth en el Black Friday",
+      "description": "Como cada año, durante el Black Friday 2023 estamos encontrando auténticos descuentos en una inmensa cantidad de dispositivos, pero ahora nos vamos a centrar en los mejores acompañantes de nuestro iPhone: los auriculares Bluetooth\r\n. Durante estos días tenemo…",
+      "url": "https://www.applesfera.com/seleccion/airpods-beats-estos-cinco-mejores-chollos-auriculares-bluetooth-black-friday",
+      "urlToImage": "https://i.blogs.es/488579/auriculares-applesfera/840_560.jpeg",
+      "publishedAt": "2023-11-22T11:31:45Z",
+      "content": "Como cada año, durante el Black Friday 2023 estamos encontrando auténticos descuentos en una inmensa cantidad de dispositivos, pero ahora nos vamos a centrar en los mejores acompañantes de nuestro iP… [+5293 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DIYphotography"
+      },
+      "author": "Richard Bernabe",
+      "title": "Exploring the wonders of Antarctica: Top photography spots",
+      "description": "Antarctica, the last untouched frontier, offers photographers a canvas of ice, mountains, and wildlife. From the serene hues of polar twilight to the awe-inspiring icebergs and glaciers, this remote continent boasts unparalleled rugged natural beauty. Let's d…",
+      "url": "https://www.diyphotography.net/exploring-the-wonders-of-antarctica-top-photography-spots/",
+      "urlToImage": "https://www.diyphotography.net/wp-content/uploads/2023/11/5_Weddell-Sea-scaled.jpg",
+      "publishedAt": "2023-11-22T11:33:27Z",
+      "content": "Antarctica, the last untouched frontier, offers photographers a canvas of ice, mountains, and wildlife. From the serene hues of polar twilight to the awe-inspiring icebergs and glaciers, this remote … [+3558 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Presse-citron"
+      },
+      "author": "Setra",
+      "title": "La voiture Xiaomi est imminente : voici les images qui circulent",
+      "description": "Alors que ses revenus augmentent enfin, Xiaomi insiste pour produire ses premières voitures électriques en 2024. En attendant, des images circulent déjà sur la toile.",
+      "url": "https://www.presse-citron.net/la-voiture-xiaomi-est-imminente-voici-les-images-qui-circulent/",
+      "urlToImage": "https://www.presse-citron.net/app/uploads/2023/11/Annonce-de-la-branche-automobile-de-Xiaomi-en-2021.jpg",
+      "publishedAt": "2023-11-22T15:00:29Z",
+      "content": "La marque Xiaomi est surtout connue pour ses smartphones haut de gamme, et pour les appareils Redmi abordables. Mais, comme Apple, lentreprise chinoise sintéresse au marché des voitures électriques. … [+3814 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Golem.de"
+      },
+      "author": "Ingo Pakalski",
+      "title": "Nicht mehr nur Lautsprecher: Sonos plant Kopfhörer, Hörstöpsel und Streaminggerät",
+      "description": "Mit einem eigenen Streaminggerät will Sonos den Kampf gegen Amazons Fire-TV-Produktreihe und Roku-Modelle aufnehmen. Bei Kopfhörern geht es um die Konkurrenz gegen Sony, Apple und Bose. (Sonos, Multi-Room)",
+      "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fnicht-mehr-nur-lautsprecher-sonos-plant-kopfhoerer-hoerstoepsel-und-streaminggeraet-2311-179650.html&referer=https%3A%2F%2Ft.co%2F481bc6b8f0",
+      "urlToImage": null,
+      "publishedAt": "2023-11-22T08:08:01Z",
+      "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "Claire Lewis",
+      "title": "Ubisoft Halts All Twitter Advertising",
+      "description": "Ubisoft has joined the recent mass advertising exodus on X (formerly Twitter). This move comes a week after Apple, Disney, and IBM also chose to pause advertising in the wake of Musk endorsing an extremely antisemitic tweet that accused members of the Jewish …",
+      "url": "https://www.gamespot.com/articles/ubisoft-halts-all-twitter-advertising/1100-6519399/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1752/17528202/4224585-ezioreading.jpg",
+      "publishedAt": "2023-11-22T14:13:00Z",
+      "content": "Ubisoft has joined the recent mass advertising exodus on X (formerly Twitter). This move comes a week after Apple, Disney, and IBM also chose to pause advertising in the wake of Musk endorsing an ext… [+1502 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The A.V. Club"
+      },
+      "author": "Tom Philip",
+      "title": "Fargo season 5 premiere: The show comes roaring back with a lean, confident new story",
+      "description": "It’s been almost three years since Fargo was last on TV, its fourth season representing something of a nadir for Noah Hawley’s scattered take on the Coen brothers’ classic. At its best, Fargo has been a fascinating and worthy addition to the name, borrowing m…",
+      "url": "https://www.avclub.com/fargo-season-5-premiere-review-episodes-1-2-1851031893",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/87f6b23c0834f6eb0d20dca3393b8607.jpg",
+      "publishedAt": "2023-11-22T05:00:00Z",
+      "content": "Its been almost three years since Fargo was last on TV, its fourth season representing something of a nadir for Noah Hawleys scattered take on the Coen brothers classic. At its best, Fargo has been a… [+8820 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Xataka Android"
+      },
+      "author": "Álvaro Núñez",
+      "title": "Amazon sigue su traca imbatible de ofertas: como este reloj inteligente TicWatch a precio de escándalo con cupón",
+      "description": "Si quieres un reloj inteligente con varios sensores y modos deportivos que se pueda comparar con Apple o Samsung, el Ticwatch Pro 5 es una buena opción. Ahora lo puedes encontrar muy rebajado en Amazon, dejando su precio de 359 euros a 271,99 euros, si aplica…",
+      "url": "https://www.xatakandroid.com/ofertas/amazon-sigue-su-traca-imbatible-ofertas-como-este-reloj-inteligente-ticwatch-a-precio-escandalo-cupon",
+      "urlToImage": "https://i.blogs.es/13e445/portada-tickwatch/840_560.jpeg",
+      "publishedAt": "2023-11-22T12:01:45Z",
+      "content": "Si quieres un reloj inteligente con varios sensores y modos deportivos que se pueda comparar con Apple o Samsung, el Ticwatch Pro 5 es una buena opción. Ahora lo puedes encontrar muy rebajado en Amaz… [+1576 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Authority"
+      },
+      "author": "Ankit Banerjee",
+      "title": "Apple iPhone 15 problems and how to fix them",
+      "description": "Here's a look at some common problems faced by iPhone 15 users and potential solutions on how to fix them.",
+      "url": "https://www.androidauthority.com/apple-iphone-15-problems-fixes-3387796/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2023/09/Apple-iPhone-15-Pro-camera-housing.jpg",
+      "publishedAt": "2023-11-22T14:00:13Z",
+      "content": "The iPhone 15 series brings a lot of upgrades over its predecessors, from a new titanium frame for the Pros to the dynamic island on the standard models. And, of course, theres also USB-C across the … [+9584 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Presse-citron"
+      },
+      "author": "Presse-citron",
+      "title": "Plutôt que de vous ruiner dans un Apple Store, Amazon brade les AirPods Pro 2 à Black Friday",
+      "description": "Profitez d'une remise incroyable sur les AirPods Pro 2 d'Apple avec cette offre folle au Black Friday sur le site d'Amazon. C'est une bonne manière de faire des économies sur les écouteurs sans fil avec réduction active du géant de Cupertino.",
+      "url": "https://www.presse-citron.net/plutot-que-de-vous-ruiner-dans-un-apple-store-amazon-brade-les-airpods-pro-2-a-black-friday/",
+      "urlToImage": "https://www.presse-citron.net/app/uploads/2023/11/apple-airpods-pro-2-gen-bf2023.jpg",
+      "publishedAt": "2023-11-22T05:59:10Z",
+      "content": "Si vous êtes à la recherche des AirPods Pro 2 et que vous attendiez la meilleure offre, c’est peut-être le moment ou jamais. Car oui, avec le Black Friday, Amazon craque et vous propose les AirPods P… [+4246 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The A.V. Club"
+      },
+      "author": "Emma Keates",
+      "title": "Neil Young is boycotting Twitter/X",
+      "description": "Neil Young just wants to keep rockin’ in a free world. Last year, the prolific folk artist made headlines for pulling his music off Spotify in protest of the streamer platforming Joe Rogan and his anti-vaccination rhetoric. Now, Young is also retracting his b…",
+      "url": "https://www.avclub.com/neil-young-boycotting-x-elon-musk-antisemitic-tweet-1851041969",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/67ea48f57fb536426c92b163c2c1f1b5.jpg",
+      "publishedAt": "2023-11-22T15:01:10Z",
+      "content": "Neil Young just wants to keep rockin in a free world. Last year, the prolific folk artist made headlines for pulling his music off Spotify in protest of the streamer platforming Joe Rogan and his ant… [+1829 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BGR"
+      },
+      "author": "José Adorno",
+      "title": "Here’s why you should use Apple Pay instead of a credit card this holiday season",
+      "description": "Black Friday is just around the corner. If you’re starting your shopping for this holiday season, you should remember to use Apple Pay or any …\nThe post Here’s why you should use Apple Pay instead of a credit card this holiday season appeared first on BGR.",
+      "url": "https://bgr.com/tech/heres-why-you-should-use-apple-pay-instead-of-a-credit-card-this-holiday-season/",
+      "urlToImage": "https://bgr.com/wp-content/uploads/2022/12/apple-pay-bgr.jpg?quality=82&strip=all",
+      "publishedAt": "2023-11-22T12:15:11Z",
+      "content": "Black Friday is just around the corner. If you’re starting your shopping for this holiday season, you should remember to use Apple Pay or any digital payment service that doesn’t involve your physica… [+1871 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Espinof.com"
+      },
+      "author": "Albertini",
+      "title": "Estrenos (22 de noviembre): 63 series, películas y documentales en Netflix, HBO Max, Amazon, Filmin, Disney+, Movistar Plus y Apple TV+",
+      "description": "Miércoles y, nuevamente, es hora de repasar lo que más nos gustan: los estrenos. Concretamente lo que viene a streaming y en esta ocasión tenemos 63 series, películas y documentales que llegan desde hoy hasta el domingo a Netflix, HBO Max, Prime Video, Filmin…",
+      "url": "https://www.espinof.com/estrenos/estrenos-22-noviembre-series-peliculas-documentales-netflix-hbo-max-amazon-filmin-disney-plus-movistar-plus-apple-tv",
+      "urlToImage": "https://i.blogs.es/d0f823/0422_cap_5_el_otro_lado_still_lander_mgl3789-scaled/840_560.jpeg",
+      "publishedAt": "2023-11-22T08:01:45Z",
+      "content": "Miércoles y, nuevamente, es hora de repasar lo que más nos gustan: los estrenos. Concretamente lo que viene a streaming y en esta ocasión tenemos 63 series, películas y documentales que llegan desde … [+3836 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Espinof.com"
+      },
+      "author": "Herrera Castro",
+      "title": "Los mejores chollos en imagen y sonido antes del Black Friday, hoy 22 de noviembre",
+      "description": "Con el Black Friday cada día más cerca, las distintas plataformas se han esmerado en adelantar gran parte de sus mejores descuentos en imagen y sonido durante esta semana. Televisores inteligentes de primeras marcas y barras de sonido de primerísimo nivel a p…",
+      "url": "https://www.espinof.com/seleccion/mejores-chollos-imagen-sonido-antes-black-friday-hoy-22-noviembre",
+      "urlToImage": "https://i.blogs.es/aade28/recopilatorio/840_560.jpeg",
+      "publishedAt": "2023-11-22T10:01:45Z",
+      "content": "Con el Black Friday cada día más cerca, las distintas plataformas se han esmerado en adelantar gran parte de sus mejores descuentos en imagen y sonido durante esta semana. Televisores inteligentes de… [+3526 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Espinof.com"
+      },
+      "author": "Víctor López G.",
+      "title": "El Macartismo vuelve a Hollywood tras el despido de Melissa Barrera de la saga 'Scream': la industria se posiciona a favor de Israel y toma represalias contra quienes apoyan a Palestina",
+      "description": "Hay ciertas corrientes de pensamiento que sugieren que todo en esta vida es cíclico y que la historia tiende a repetirse. Está claro que todo vuelve, desde cosas tan superficiales como algún tipo de prendas en el mundo de la moda hasta peligrosas corrientes p…",
+      "url": "https://www.espinof.com/actores-y-actrices/macartismo-vuelve-a-hollywood-despido-melissa-barrera-saga-scream-industria-se-posiciona-a-favor-israel-toma-represalias-quienes-apoyan-a-palestina",
+      "urlToImage": "https://i.blogs.es/9f4a39/sin-titulo-2/840_560.jpeg",
+      "publishedAt": "2023-11-22T14:01:47Z",
+      "content": "Hay ciertas corrientes de pensamiento que sugieren que todo en esta vida es cíclico y que la historia tiende a repetirse. Está claro que todo vuelve, desde cosas tan superficiales como algún tipo de … [+7491 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cracked.com"
+      },
+      "author": "Eli Yudin",
+      "title": "5 Fast-Food Translation Snafus",
+      "description": "Who knew that Pepsi was an ingredient in forbidden spellbooks?",
+      "url": "https://www.cracked.com/article_40284_5-fast-food-translation-snafus.html",
+      "urlToImage": "https://s3.crackedcdn.com/phpimages/article/6/6/8/969668.jpg",
+      "publishedAt": "2023-11-22T13:00:00Z",
+      "content": "As anyone who has faced off against the despicable Duolingo owl on the daily knows, learning another language can be tricky. It would at least be a little easier if it was simply a situation of learn… [+6033 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "iMore"
+      },
+      "author": "Stephen Warwick",
+      "title": "Sonos is trying to steal Apple's thunder with two new products, including one that might surprise you",
+      "description": "Apple audio rival Sonos is planning a premium pair of headphones.",
+      "url": "https://www.imore.com/music-movies-tv/sonos/sonos-is-trying-to-steal-apples-thunder-with-two-new-products-including-one-that-might-surprise-you",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/N7gDDxqptMQiGqG6isboC5-1200-80.jpg",
+      "publishedAt": "2023-11-22T10:04:38Z",
+      "content": "One of Apple’s biggest rivals in the premium audio sector is about to take a swing at the company with not one but two brand-new product lines, including one that should surprise you. \r\nSonos current… [+1693 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "iMore"
+      },
+      "author": "daryl.baxter@futurenet.com (Daryl Baxter)",
+      "title": "I'm upgrading my car with Apple CarPlay for less than $80, here's how you can too",
+      "description": "After shopping around for a new car that has CarPlay installed, a deal on a monitor that gives my existing car this function has all but saved it from being sold.",
+      "url": "https://www.imore.com/apple-carplay/im-upgrading-my-car-with-apple-carplay-for-less-than-dollar80-heres-how-you-can-too",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/VcW2XmWp4TBfPb5DNqWMkF-1200-80.jpg",
+      "publishedAt": "2023-11-22T10:46:23Z",
+      "content": "My wife and I have owned the same car for a few years now, but we’ve been using it far more this year since our son was born. The vehicle does its job of getting us from one place to another, althoug… [+1686 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "iMore"
+      },
+      "author": "james.bentley@futurenet.com (James Bentley)",
+      "title": "Two of The Witcher games are now optimized for Apple silicon, but not the one you want to play",
+      "description": "CD Projekt Red has recently announced that The Witcher 1 and 2 are coming to Mac devices but, notably, not the third game.",
+      "url": "https://www.imore.com/apple/two-of-the-witcher-games-are-now-optimized-for-apple-silicon-but-not-the-one-you-want-to-play",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/tadgdAUCN7PLeQeodjLn4F-1200-80.jpg",
+      "publishedAt": "2023-11-22T10:45:05Z",
+      "content": "Not one but two of the games from The Witcher franchise are now playable on Apple silicon Macs and macOS Ventura, but fans of the series might be disappointed by a notable omission.\r\nIn a recent anno… [+1807 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "iMore"
+      },
+      "author": "john-anthony.disotto@futurenet.com (John-Anthony Disotto)",
+      "title": "The most futuristic battery pack I've ever used is $70 off for Black Friday — Who knew charging could look this cool?",
+      "description": "This is the coolest battery pack I've ever used, and it's 30% off in Amazon's Black Friday sale.",
+      "url": "https://www.imore.com/accessories/the-most-futuristic-battery-pack-ive-ever-used-is-dollar70-off-for-black-friday-who-knew-charging-could-look-this-cool",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/GrxdF85AtTXRk8nmcJHWfj-1200-80.jpg",
+      "publishedAt": "2023-11-22T10:41:45Z",
+      "content": "I test out a lot of battery packs, but none come close to the style and swagger of this Cyberpunk 2077-inspired Shargeek power bank. Not only is the Shargeek Storm 2 one of the coolest products I’ve … [+1584 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "iMore"
+      },
+      "author": "Stephen Warwick",
+      "title": "How to build an elite desktop Mac for less than an M3 iMac on Black Friday",
+      "description": "The M3 iMac is cool, but if you know where to look you can save money and have a lot more fun building a desktop setup in the Black Friday sales.",
+      "url": "https://www.imore.com/mac/how-to-build-an-elite-desktop-mac-for-less-than-an-m3-imac-on-black-friday",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/weTeGz7tnDs6DW6p6ZURZE-1200-80.jpg",
+      "publishedAt": "2023-11-22T14:17:13Z",
+      "content": "Apple’s new iMac is a fantastic all-in-one desktop powered by Apple’s new M3 chip. Yet, for a variety of reasons, it’s not the perfect Mac solution for everyone. As we noted in our review, there are … [+8099 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Umair Irfan",
+      "title": "How 2023 scorched our dinner plates",
+      "description": "Are your holiday meals pricier this year? Blame the record-breaking heat around the world.",
+      "url": "https://www.vox.com/climate/23971356/thanksgiving-2023-food-steak-olive-oil-record-heat-climate-change",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/jnscuJRuJ6OJFY5ijTrWKDzzsH0=/0x626:4681x3077/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25103002/GettyImages_165792182.jpeg",
+      "publishedAt": "2023-11-22T13:00:00Z",
+      "content": "2023 saw some of the hottest temperatures ever recorded, and they’re eating into food production. | MHJ/Getty Images\r\n\n \n\n Are your holiday meals pricier this year? Blame the record-breaking heat aro… [+13320 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vida Extra"
+      },
+      "author": "Juan Sanmartín",
+      "title": "Ciencia ficción, fantasía y sueños laberínticos en esta obra maestra del anime. Te recordará a Origen de Christopher Nolan, pero Paprika llegó muchos años antes",
+      "description": "Todo un maestro del cine como Christopher Nolan nos maravilló con el estreno de Origen en 2010, una cinta que nos presentaba una realidad en la que las personas pueden infiltrarse en los sueños ajenos y generar ideas propias en sus mentes. Una locura total qu…",
+      "url": "https://www.vidaextra.com/cine/ciencia-ficcion-fantasia-suenos-laberinticos-esta-obra-maestra-anime-te-recordara-a-origen-christopher-nolan-paprika-llego-muchos-anos-antes",
+      "urlToImage": "https://i.blogs.es/97e4c9/paprika/840_560.jpeg",
+      "publishedAt": "2023-11-22T12:19:13Z",
+      "content": "Todo un maestro del cine como Christopher Nolan nos maravilló con el estreno de Origen en 2010, una cinta que nos presentaba una realidad en la que las personas pueden infiltrarse en los sueños ajeno… [+1680 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Les Numériques"
+      },
+      "author": "Rick",
+      "title": "Actualité : Bon plan – Le smartphone Apple iPhone 14 256 Go \"4 étoiles\" à 874,90 €",
+      "description": "Le smartphone Apple iPhone 14 256 Go passe sous les 900 € chez E. Leclerc - High-Tech.",
+      "url": "https://www.lesnumeriques.com/telephone-portable/bon-plan-le-smartphone-apple-iphone-14-256-go-4-etoiles-a-874-90-n215340.html",
+      "urlToImage": "https://cdn.lesnumeriques.com/optim/test/19/191893/e2439d95-apple-iphone-14-un-successeur-sans-grandes-surprises__1200_630__0-240-3000-1815.jpeg",
+      "publishedAt": "2023-11-22T09:46:00Z",
+      "content": "Modèle concernéCe contenu porte spécifiquement sur le modèle : 256 Go. D'autres déclinaisons existent et leurs prix sont indiqués dans les onglets du tableau ci-dessous.\r\nLa rentrée marque la naissan… [+1979 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Les Numériques"
+      },
+      "author": "Antonin Leeno",
+      "title": "Actualité : Black Friday : le clavier Apple Magic Keyboard à 79€ chez Amazon (-23%)",
+      "description": "Parmi ses offres pour le Black Friday, Amazon propose le clavier Apple Magic Keyboard à 79€, contre 103€ habituellement, soit une réduction de 23%.",
+      "url": "https://www.lesnumeriques.com/clavier/black-friday-le-clavier-apple-magic-keyboard-a-79-chez-amazon-23-n215286.html",
+      "urlToImage": "https://cdn.lesnumeriques.com/optim/news/21/215286/15adb4f7-black-friday-le-clavier-apple-magic-keyboard-a-79-chez-amazon-23__1200_630__overflow.jpeg",
+      "publishedAt": "2023-11-22T13:30:00Z",
+      "content": "Les offres sur les produits Apple sont rares, mais on en trouve chez Amazon à l'occasion du Black Friday : le clavier Apple Magic Keyboard passe à 79 (-23%, prix barré) . Sans fil, il se connecte ins… [+363 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Les Numériques"
+      },
+      "author": "Alexandre Scotti",
+      "title": "Actualité : L’iPhone 16 Pro héritera de cette excellente nouveauté photo de l’iPhone 15 Pro Max",
+      "description": "L’iPhone 15 Pro Max pourrait partager une de ses spécificités photo avec ses successeurs. De récents rapports indiquent en effet que l’excellent zoom optique x5 devrait être introduit sur tous les iPhone 16 Pro en 2024.",
+      "url": "https://www.lesnumeriques.com/telephone-portable/l-iphone-16-pro-heritera-de-cette-excellente-nouveaute-photo-de-l-iphone-15-pro-max-n215320.html",
+      "urlToImage": "https://cdn.lesnumeriques.com/optim/news/21/215320/adde0326-l-iphone-16-pro-heritera-de-cette-excellente-nouveaute-photo-de-l-iphone-15-pro-max__1200_630__overflow.jpg",
+      "publishedAt": "2023-11-22T13:55:00Z",
+      "content": "Avec les iPhone 15, Apple a créé une réelle démarcation au niveau de la photo entre les deux Pro. Le Pro Max est en effet le seul à profiter dune lentille à tétraprisme, lui permettant doffrir un zoo… [+2481 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Les Numériques"
+      },
+      "author": "Guillaume Fourcadier",
+      "title": "Test Razer Blackshark V2 Pro (2023) : puissance sonore et microphone d'exception",
+      "description": "Casque gaming le plus haut de gamme du catalogue Razer, le Blackshark V2 Pro Édition 2023 reprend les grandes lignes de la version sortie en 2020, tout en affichant quelques changements. Pour le meilleur ?",
+      "url": "https://www.lesnumeriques.com/casque-gaming-micro/razer-blackshark-v2-pro-2023-p73399/test.html",
+      "urlToImage": "https://cdn.lesnumeriques.com/optim/test/21/214600/06b6bbc8-test-razer-blackshark-v2-pro-2023-puissance-sonore-et-microphone-d-exception__1200_630__0-202-1600-1042_wtmk.jpg",
+      "publishedAt": "2023-11-22T09:00:00Z",
+      "content": "Casque gaming le plus haut de gamme du catalogue Razer, le Blackshark V2 Pro Édition 2023 reprend les grandes lignes de la version sortie en 2020, tout en affichant quelques changements. Pour le meil… [+11397 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Xatakamovil.com"
+      },
+      "author": "Eduardo Marín",
+      "title": "Consigue tres meses de Apple TV+ gratis si tienes una PlayStation 5",
+      "description": "Si tienes una consola de videojuegos de última generación de Sony, tenemos una buena noticia: puedes obtener tres meses gratis de Apple TV+, ideal para disfrutar durante la temporada de fiestas de algunas excelentes series que están disponibles en el servicio…",
+      "url": "https://www.xatakamovil.com/streaming/consigue-tres-meses-apple-tv-gratis-tienes-playstation-5",
+      "urlToImage": "https://i.blogs.es/cd7bae/ps5-apple-tv-plus/840_560.png",
+      "publishedAt": "2023-11-22T00:42:03Z",
+      "content": "Si tienes una consola de videojuegos de última generación de Sony, tenemos una buena noticia: puedes obtener tres meses gratis de Apple TV+, ideal para disfrutar durante la temporada de fiestas de al… [+4092 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Xatakamovil.com"
+      },
+      "author": "Álvaro García M.",
+      "title": "Ni Google Maps, ni Apple Maps: Journey es una excelente alternativa que también ofrece funciones únicas",
+      "description": "El mundo de los navegadores GPS para móvil es cada vez más amplio, aunque Google Maps y Waze siguen siendo los reyes del sector e incluso Apple Maps cuando hablamos de iOS. Sin embargo, no será por falta de alternativas y lo que ofrece 'Journey Navigation' pa…",
+      "url": "https://www.xatakamovil.com/aplicaciones/google-maps-apple-maps-journey-excelente-alternativa-que-tambien-ofrece-funciones-unicas",
+      "urlToImage": "https://i.blogs.es/2f17be/app-gps/840_560.jpeg",
+      "publishedAt": "2023-11-22T11:01:46Z",
+      "content": "El mundo de los navegadores GPS para móvil es cada vez más amplio, aunque Google Maps y Waze siguen siendo los reyes del sector e incluso Apple Maps cuando hablamos de iOS. Sin embargo, no será por f… [+7319 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Xatakamovil.com"
+      },
+      "author": "Alejandro Alcolea",
+      "title": "\"Android es un dispositivo de rastreo masivo\", así de contundente es Apple en los documentos del juicio contra Epic",
+      "description": "El juicio que está enfrentando a Epic Games y a Google no para de dejarnos perlas. Por ejemplo, el dineral que le cuesta a Google mantener ciertas aplicaciones en primera línea en los Samsung Galaxy, el acuerdo especial con Spotify para que éstos paguen menos…",
+      "url": "https://www.xatakamovil.com/apple/android-dispositivo-rastreo-masivo-asi-contundente-apple-documentos-juicio-epic",
+      "urlToImage": "https://i.blogs.es/e87103/apple-confidencial/840_560.jpeg",
+      "publishedAt": "2023-11-22T15:01:47Z",
+      "content": "El juicio que está enfrentando a Epic Games y a Google no para de dejarnos perlas. Por ejemplo, el dineral que le cuesta a Google mantener ciertas aplicaciones en primera línea en los Samsung Galaxy,… [+5935 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Xatakamovil.com"
+      },
+      "author": "Álvaro Núñez",
+      "title": "Los mejores chollos en móviles iPhone, Samsung, Xiaomi y más antes del Black Friday, hoy 22 de noviembre",
+      "description": "Aunque falta poco para el Black Friday, que es el viernes 24 de noviembre, hay muchas ofertas interesantes en la gran mayoría de las tiendas. Por eso, hemos recopilado los 6 mejores chollos en móviles de marcas tan conocidas como Google, Samsung o Apple.\n<!--…",
+      "url": "https://www.xatakamovil.com/ofertas/mejores-chollos-moviles-iphone-samsung-xiaomi-antes-black-friday-hoy-22-noviembre",
+      "urlToImage": "https://i.blogs.es/f86f44/portada-movil-miercoles/840_560.jpeg",
+      "publishedAt": "2023-11-22T10:01:45Z",
+      "content": "Aunque falta poco para el Black Friday, que es el viernes 24 de noviembre, hay muchas ofertas interesantes en la gran mayoría de las tiendas. Por eso, hemos recopilado los 6 mejores chollos en móvile… [+4679 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Xatakamovil.com"
+      },
+      "author": "Pepu Ricca",
+      "title": "Europa en caída libre para la distribución de móviles: Realme y Samsung pierden fuelle y sólo Honor sube, según Counterpoint",
+      "description": "La tendencia bajista en lo que se refiere al mercado de telefonía móvil sigue marcando los números de una industria que no consigue recuperarse del todo. En verano, ya éramos conscientes de la caída global de las ventas en Europa, con Samsung superando a Appl…",
+      "url": "https://www.xatakamovil.com/mercado/distribucion-moviles-europa-sigue-caida-libre-tercer-trimestre-deja-a-samsung-muy-damnificada-counterpoint",
+      "urlToImage": "https://i.blogs.es/f9df4b/1366_2000-1-/840_560.jpeg",
+      "publishedAt": "2023-11-22T14:01:47Z",
+      "content": "La tendencia bajista en lo que se refiere al mercado de telefonía móvil sigue marcando los números de una industria que no consigue recuperarse del todo. En verano, ya éramos conscientes de la caída … [+4297 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Xatakamovil.com"
+      },
+      "author": "Iván Linares",
+      "title": "Casi 11.000 canales de tele gratis con esta lista IPTV que trae toda la TDT",
+      "description": "Para tu televisión, para el móvil o la tablet: hay una manera de tener acceso a la mayoría de televisiones públicas del mundo con una sola lista IPTV. En concreto, tiene disponibles casi 11.000 canales gratis, es una lista gratuita y también de código abierto…",
+      "url": "https://www.xatakamovil.com/tutoriales/casi-11-000-canales-tele-gratis-esta-lista-iptv-que-trae-toda-tdt",
+      "urlToImage": "https://i.blogs.es/f6a91a/portada-tele/840_560.jpeg",
+      "publishedAt": "2023-11-22T12:01:45Z",
+      "content": "Para tu televisión, para el móvil o la tablet: hay una manera de tener acceso a la mayoría de televisiones públicas del mundo con una sola lista IPTV. En concreto, tiene disponibles casi 11.000 canal… [+3395 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Xatakamovil.com"
+      },
+      "author": "Alejandro Alcolea",
+      "title": "Sam Altman ha durado dos días en Microsoft: una de las mentes tras ChatGPT regresa a OpenAI",
+      "description": "Estamos viviendo dos culebrones en el mundo tecnológico. Por un lado, el juicio entre Google y Epic que está dejando al descubierto asuntos como el acuerdo secreto con Spotify, el dineral que Google se gasta en marcas como Samsung o lo que paga a Apple para q…",
+      "url": "https://www.xatakamovil.com/desarrollo/sam-altman-ha-durado-dos-dias-microsoft-mentes-chatgpt-regresa-a-openai",
+      "urlToImage": "https://i.blogs.es/ea3977/1366_2000-6-/840_560.jpeg",
+      "publishedAt": "2023-11-22T07:53:56Z",
+      "content": "Estamos viviendo dos culebrones en el mundo tecnológico. Por un lado, el juicio entre Google y Epic que está dejando al descubierto asuntos como el acuerdo secreto con Spotify, el dineral que Google … [+3925 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Caschys Blog"
+      },
+      "author": "caschy",
+      "title": "Magenta Black Days: AirPods, Apple-Hüllen und mehr im Angebot",
+      "description": "Aus dem „Magenta Thursday“ der letzten Jahre werden dieses Jahr bei der Telekom die „Magenta Black Days“. Vom 22. bis 28.11.23 und damit einen Tag länger als bisher, gibt es wieder einige Angebote – sowohl im Shop der Telekom für...Zum Beitrag: Magenta Black …",
+      "url": "https://stadt-bremerhaven.de/magenta-black-days-airpods-apple-huellen-und-mehr-im-angebot/",
+      "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2023/11/magentablack.jpg",
+      "publishedAt": "2023-11-22T04:57:30Z",
+      "content": "Aus dem Magenta Thursday der letzten Jahre werden dieses Jahr bei der Telekom die Magenta Black Days. Vom 22. bis 28.11.23 und damit einen Tag länger als bisher, gibt es wieder einige Angebote – sowo… [+1846 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Caschys Blog"
+      },
+      "author": "caschy",
+      "title": "Google plante Kauf von Epic Games",
+      "description": "Im laufenden Gerichtsverfahren gegen Google ist schon einiges ans Licht gekommen – unter anderem, was Google für spezielle Deals eingefädelt hatte, beispielsweise mit Spotify und Apple. Nun gibt es wieder ein paar Dinge, die vielleicht überraschen. So plante …",
+      "url": "https://stadt-bremerhaven.de/google-plante-kauf-von-epic-games/",
+      "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2023/11/google_mitchell-luo-UZqq8Oi7PXk-unsplash-2.jpg",
+      "publishedAt": "2023-11-22T09:00:39Z",
+      "content": "Im laufenden Gerichtsverfahren gegen Google istschoneinigesans Licht gekommen – unter anderem, was Google für spezielle Deals eingefädelt hatte, beispielsweise mit Spotify und Apple. Nun gibt es wied… [+1694 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "IndieWire"
+      },
+      "author": "Samantha Bergeson",
+      "title": "Barry Keoghan Hopes to Work with the Safdies, Barry Jenkins, and Lynne Ramsay: ‘There’s Quite a Few’",
+      "description": "The \"Saltburn\" star wants to reunite with his \"Dunkirk\" director Christopher Nolan as well.",
+      "url": "https://www.indiewire.com/news/general-news/barry-keoghan-wants-work-safdies-barry-jenkins-1234928455/",
+      "urlToImage": "https://www.indiewire.com/wp-content/uploads/2022/10/GettyImages-1349811988.jpg",
+      "publishedAt": "2023-11-22T00:00:00Z",
+      "content": "Barry Keoghan has set his sights on a new crop of collaborators.\r\nAfter starring in films by Christopher Nolan (“Dunkirk“), Yorgos Lanthimos (“The Killing of a Sacred Deer”), Chloé Zhao (“The Eternal… [+2775 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Frandroid"
+      },
+      "author": "Axel Savoye",
+      "title": "Les Apple AirPods 3 deviennent la cible du Black Friday avec cette chute de prix sur Amazon",
+      "description": "Derniers représentants de leur gamme, les Apple AirPods 3 ont la réputation d'être les meilleurs écouteurs sans fil en format ouvert, notamment grâce à l'audio spatial réservé aux appareils Apple et à une autonomie gargantuesque. Ces true wireless sont un gro…",
+      "url": "https://www.frandroid.com/bons-plans/1864654_les-apple-airpods-3-deviennent-la-cible-du-black-friday-avec-cette-chute-de-prix-sur-amazon",
+      "urlToImage": "https://images.frandroid.com/wp-content/uploads/2023/11/apple-airpods-3.jpg",
+      "publishedAt": "2023-11-22T07:07:11Z",
+      "content": "Derniers représentants de leur gamme, les Apple AirPods 3 ont la réputation d'être les meilleurs écouteurs sans fil en format ouvert, notamment grâce à l'audio spatial réservé aux appareils Apple et … [+6358 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Frandroid"
+      },
+      "author": "Nathan Le Gohlisse",
+      "title": "Les bagues connectées ont le vent en poupe et ce cadre d’Apple l’a bien senti",
+      "description": "Jason Oberfest, cador de l'équipe d'Apple chargée de la santé, vient de rejoindre Oura. Une excellente nouvelle en perspective pour l'entreprise scandinave, toujours affairée au développement de ses bagues connectées.",
+      "url": "https://www.frandroid.com/produits-android/accessoires-objets-connectes/bagues-connectees/1865916_les-bagues-connectees-ont-le-vent-en-poupe-et-ce-cadre-dapple-la-bien-senti",
+      "urlToImage": "https://images.frandroid.com/wp-content/uploads/2023/07/oura-ring-3.jpg",
+      "publishedAt": "2023-11-22T13:34:12Z",
+      "content": "Jason Oberfest, cador de l'équipe d'Apple chargée de la santé, vient de rejoindre Oura. Une excellente nouvelle en perspective pour l'entreprise scandinave, toujours affairée au développement de ses … [+2175 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Frandroid"
+      },
+      "author": "Guillaume Sonnet",
+      "title": "Black Friday : la version 2023 en 55 pouce du TV 4K/tableau de Samsung chute sous les 1 000 euros",
+      "description": "Vous attendiez le Black Friday pour vous procurer la TV Samsung The Frame de vos rêves et embellir votre salon ? C'est le bon moment puisque le modèle 55 pouces de 2023 est en promotion à 999 euros au lieu de 1500 chez la Fnac.",
+      "url": "https://www.frandroid.com/bons-plans/1864180_black-friday-la-version-2023-en-55-pouce-du-tv-4k-tableau-de-samsung-chute-sous-les-1-000-euros",
+      "urlToImage": "https://images.frandroid.com/wp-content/uploads/2023/11/samsung-the-frame-tq55ls03b-bf-2023.jpg",
+      "publishedAt": "2023-11-22T07:57:41Z",
+      "content": "Vous attendiez le Black Friday pour vous procurer la TV Samsung The Frame de vos rêves et embellir votre salon ? C'est le bon moment puisque le modèle 55 pouces de 2023 est en promotion à 999 euros a… [+5578 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Frandroid"
+      },
+      "author": "Mélanie Capelli",
+      "title": "Black Friday 2023 : quand Amazon brade un TROP grand nombre de produits Tech",
+      "description": "Le Black Friday 2023 marque ce mois de novembre. Et, quel démarrage, avec des produits Tech à prix vraiment séduisants. Amazon propose de nombreuses pépites dans son catalogue. Voici les meilleures offres que nous avons retenues.",
+      "url": "https://www.frandroid.com/bons-plans/1865836_black-friday-2023-quand-amazon-brade-un-tres-grand-nombre-de-produits-tech",
+      "urlToImage": "https://images.frandroid.com/wp-content/uploads/2023/11/amazon-black-week-1-1.jpg",
+      "publishedAt": "2023-11-22T11:09:40Z",
+      "content": "Le Black Friday 2023 marque ce mois de novembre. Et, quel démarrage, avec des produits Tech à prix vraiment séduisants. Amazon propose de nombreuses pépites dans son catalogue. Voici les meilleures o… [+23117 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifehacker.ru"
+      },
+      "author": "Дарья Костючкова",
+      "title": "Подкаст «Слушай, это просто»: что такое синдром Мюнхгаузена и как его распознать",
+      "description": "Название синдрома связано с тем самым бароном Мюнхгаузеном из известной сказки, у которого, кстати, был реальный прототип.",
+      "url": "https://lifehacker.ru/slushaj-eto-prosto-41/",
+      "urlToImage": "https://cdn.lifehacker.ru/wp-content/uploads/2022/04/Podkast_Slushaj_eto_prosto_vse_formatyLX_sajt_LX_1649760766-1024x512.jpg",
+      "publishedAt": "2023-11-22T12:30:41Z",
+      "content": ", XVIII , , . , . , . , .\r\n «, » , : Apple Podcasts, Google Podcasts, YouTube, «», «», «», CastboxSoundStream."
+    }
+  ]
+}
