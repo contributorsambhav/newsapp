@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.ChessBox{
+  margin: auto; 
+  margin-top: 8vh;
+    width : 88vh;
+}
