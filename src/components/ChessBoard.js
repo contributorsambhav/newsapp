@@ -14,8 +14,12 @@ const ChessBoard = () => {
         squares.push(
           <div
             key={`${row}-${col}`}
-            className={`square ${squareColor}`}
-          ></div>
+            className={`square ${squareColor} ${String.fromCharCode(65 + col)} ${8-row}`}
+
+          >
+            {`${String.fromCharCode(65 + col)}${8-row}`}
+
+          </div>
         );
       }
     }

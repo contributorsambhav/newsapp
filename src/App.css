@@ -37,8 +37,7 @@
   }
 }
 
-.ChessBox{
-  margin: auto; 
-  margin-top: 8vh;
-    width : 88vh;
+body{
+  background-image: url(./components/bg4.jfif);
 }
+
